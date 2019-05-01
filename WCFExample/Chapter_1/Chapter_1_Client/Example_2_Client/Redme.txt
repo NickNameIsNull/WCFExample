@@ -1,0 +1,6 @@
+﻿该实例与Chapter_1解决方案中的Example_2中的项目搭配使用
+1.将Chapter_1解决方案中的Example_2项目设置为启动项
+2.启动Chapter_1解决方案
+3.将Chapter_1_Client解决方案中的Example_2_Client项目设置为启动项
+4.在Chapter_1_Client解决方案中的Example_2_Client服务中添加Chapter_1解决方案中的Example_2服务，并命名为WSSample（此步骤在现已实现）
+5.启动Chapter_1_Client解决方案。
